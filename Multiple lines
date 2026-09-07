@@ -1,0 +1,15 @@
+# include sidio. h)
+
+int main()
+{
+printf ("Thiss Wekome to c prayramming n):
+print f ("This is my first C progrom\n"); 
+print f (" Thank you");
+
+return o;
+}
+output:
+
+Welcome to C programming 
+This is my first c program 
+Thank you
