@@ -1,0 +1,9 @@
+# include (stdio. h) 
+int main ()
+{
+printf ("My Name is sandhy a");
+
+return o;
+}
+out put:
+My Name is Sandhya.
