@@ -1,0 +1,12 @@
+# inelude <stdio.h>
+int main ()
+{
+int num;
+Printf(" Enter a number: ");
+scanf("%d",num);
+return 0;
+}
+
+Sample out put:
+Enter a number:25
+you entered 25
