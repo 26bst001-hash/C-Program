@@ -1,0 +1,14 @@
+# include <stdio. h>
+int main ()
+{
+int a, b;
+
+Print(" Enter two numbers: ");
+scanf("%d,%d,&a,&b);
+printf("sum=%d",a+b);
+return 0;
+}
+Simple out put:
+
+Enter two numbers: 15 25
+sum =40
