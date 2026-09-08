@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+int a= 10, b= 20. Sum:
+sum=a+b;
+print("sum=%d,sum);
+return 0;
+}
+out put:
+Sum =30
