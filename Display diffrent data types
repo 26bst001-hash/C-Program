@@ -1,0 +1,22 @@
+# include stdio.h>
+int main ()
+{
+int age = 18;
+
+Hlout marks = 89.5:
+
+char grade ='A';
+
+printt ("Age = % d\n", age);
+
+print f ("Marks = %1f \n", marks);
+
+print f ("Grade = %c\n", grade);
+
+return o;
+}
+out put :
+
+Age:18
+marks:89.5
+grade:A
