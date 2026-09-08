@@ -1,0 +1,15 @@
+# include (stdio.h)
+int main ()
+{
+printf("name\t:zarah\n")
+printf("age\t:18\n");
+printf("course\t:bsc computer science");
+return o;
+}
+output:
+
+Name: zarah
+
+Age : 18
+
+course : B. SC computer Suence
